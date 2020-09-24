@@ -1,0 +1,15 @@
+{
+  "name": "circle-ci",
+  "version": "1.0.0",
+  "description": "learning about circleci",
+  "main": "app.js",
+  "author": "ezego1",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
